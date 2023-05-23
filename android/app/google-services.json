@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "279732522887",
+    "project_id": "vocability-55a55",
+    "storage_bucket": "vocability-55a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279732522887:android:f1a90b5da70c6783708d22",
+        "android_client_info": {
+          "package_name": "com.abderrahmanlahiaouni.vocability"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279732522887-mnmrjhatvape0o4knl1kquvlkmshfgbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abderrahmanlahiaouni.vocability",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "279732522887-avj8vu2hndhbhsc1cke5v01p53ka5rei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzT37OkHuQEg8pnbjLbin2YX0JyxP9kdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279732522887-avj8vu2hndhbhsc1cke5v01p53ka5rei.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "279732522887-b9771gg3qujhv7mbqm17eol1hc3fqf9g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abderrahmanlahiaouni.vocability"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
